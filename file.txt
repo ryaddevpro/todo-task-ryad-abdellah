@@ -1,0 +1,1 @@
+id= 0 | title= This is a description of the task1 | description= Task 1 | finishDate= 13/03/2024 23:30 | isCompleted= 1
